@@ -1,6 +1,6 @@
-baseURL: https://coolshell.in
+baseURL: https://rip.coolshell.in
 languageCode: en-us
-title: Blog - 耗友众创
+title: 纪念左耳朵耗子
 copyright: © 2022-2023 X
 googleAnalytics:
 # paginate specifies the maximum number of posts displayed on the home page.
@@ -20,26 +20,25 @@ languages:
     author:
       status:
       description: |
-        💡 欢迎加入：
-        耗友自发的兴趣小组，讨论代码内外的事务。为实现耗子的愿望，推广MegaEase 云服务和开源项目
+       这个是陈皓的追思网站
+
     params:
-      greet: 你好 :)
+      greet: R.I.P
 
 # author specifies your name, a slogon and your brief self-introduction.
 author:
   name: X
   status:
   description: |
-    Welcome! This is a self-initiated interest group for Hao's Friends to discuss matters inside and outside the code.
-    To fulfill His wish to promote MegaEase cloud service and open source projects
+    This is a website for memorying Haoel Chen
 
 params:
   # greet specifies greeting words.
-  greet: Hello :)
+  greet: R.I.P
   # subtitle speficies a subtitle displayed right after the site title.
   subtitle:
   # switch specifies two emojis used as the button toggling color themes.
-  switch: ["🌚", "🌝"]
+  switch: ["🕯", "🙏"]
   # minima has one dark theme and multiple light themes. defaultTheme specifies
   # a default light theme to use. currently available options: light, sand, rock, system.
   defaultTheme: light
@@ -81,7 +80,7 @@ params:
       shortname: hugo-minima
       # check out https://utteranc.es
     utterances:
-      repo: blackluopensource/coolshellx-comments
+      repo: blackluopensource/Remembering_comment
       issueTerm: pathname
       label: comment
     # check out https://giscus.app
